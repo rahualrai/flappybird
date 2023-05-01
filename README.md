@@ -35,4 +35,4 @@ pip install pygame
 
 You can change the game window size by modifying the WINDOW_WIDTH and WINDOW_HEIGHT variables in `flappybird.py`
 
-You can change the pipe speed and bird gravity by modifying the self.gravity value in the Bird class and the self.x -= value in the update method of the Pipe class.
+You can change the pipe speed and bird gravity by modifying the `self.gravity` value in the `Bird` class and the `self.x -=` value in the update method of the `Pipe` class.
