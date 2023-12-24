@@ -21,15 +21,15 @@ pip install pygame
 ## How to Install
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/luminaa/flappybird
-    cd flappybird
-    ```
+```bash
+git clone https://github.com/luminaa/flappybird
+cd flappy bird
+```
 
 2. Run the game by running the following command in your terminal:
-    ```bash
-    python flappybird.py
-    ```
+```bash
+python flappybird.py
+```
 
 ## Customizations
 
